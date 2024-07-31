@@ -1,3 +1,5 @@
+The goal of the project is to analyze whether the particular URL is prone to phishing (malicious) or not
+
 We are going to do
 
 1. Exploratory Data Analysis
